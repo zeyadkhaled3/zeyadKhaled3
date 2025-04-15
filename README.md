@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zeyad Khaled</h1>
+<h1 align="center"> I'm Zeyad Khaled</h1>
 <h3 align="center">A passionate Embedded Software Engineer</h3>
 
 - 🔭 I’m currently working on **ARM , AVR , Linux , IoT**
