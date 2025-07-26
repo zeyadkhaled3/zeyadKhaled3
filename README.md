@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ARM , AVR , Linux , IoT**
 
-- 🌱 I’m currently learning **Embedded Linux**
+- 🌱 I’m currently learning **Embedded Linux** and**Modern c++** 
 
 - 📫 How to reach me **adnankhaled4455@gmail.com**
 
